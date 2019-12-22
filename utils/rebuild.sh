@@ -10,4 +10,5 @@ echo 'Rebuilding Server & Client...'
 sudo npm run build
 
 echo '=============================='
+echo 'Restarting service'
 sudo service kutt restart
