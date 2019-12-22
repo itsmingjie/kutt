@@ -35,8 +35,6 @@ class Homepage extends Component {
         <Shortener />
         {needToLogin}
         {table}
-        <Features />
-        <Extensions />
         <Footer />
       </BodyWrapper>
     );

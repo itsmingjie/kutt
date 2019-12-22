@@ -29,21 +29,6 @@ const HeaderLeftMenu = props => {
   };
   return (
     <List>
-      <HeaderMenuItem>
-        <a
-          href="//github.com/thedevs-network/kutt"
-          target="_blank"
-          rel="noopener noreferrer"
-          title="GitHub"
-        >
-          GitHub
-        </a>
-      </HeaderMenuItem>
-      <HeaderMenuItem>
-        <a href="/report" title="Report abuse" onClick={goTo}>
-          Report
-        </a>
-      </HeaderMenuItem>
     </List>
   );
 };

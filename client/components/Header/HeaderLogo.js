@@ -40,8 +40,7 @@ const HeaderLogo = props => {
   return (
     <LogoImage>
       <a href="/" title="Homepage" onClick={goTo}>
-        <img src="/images/logo.svg" alt="" />
-        Kutt.it
+        go.mingjie.info
       </a>
     </LogoImage>
   );
