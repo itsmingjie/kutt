@@ -74,11 +74,11 @@ const NeedToLogin = () => (
   <Wrapper>
     <TitleWrapper>
       <Title>
-        Manage links, set custom <b>domains</b> and view <b>stats</b>.
+        Wow. So Short. Much Linked.
       </Title>
       <Link href="/login" prefetch>
         <a href="/login" title="login / signup">
-          <Button>Login / Signup</Button>
+          <Button>Login</Button>
         </a>
       </Link>
     </TitleWrapper>
